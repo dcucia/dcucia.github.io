@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dcucia.github.io/sitemap/sitemap.ktAN.gz
